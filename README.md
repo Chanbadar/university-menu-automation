@@ -1,20 +1,4 @@
 # university-menu-automation
-### 🛠️ Kurulum
-
-#### 1. Gereksinimler
-- n8n kurulumu
-- E-posta servisi (Gmail, Outlook, vb.)
-- Üniversite menü sayfası URL'si
-
-#### 2. Adımlar
-```bash
-# Repository'yi klonlayın
-git clone https://github.com/Chanbadar/university-menu-automation.git
-
-# n8n'de workflow'u içe aktarın
-# Workflow.json dosyasını n8n arayüzünden import edin
-### 🇹🇷 Türkçe Açıklamalar:
-
 **1. Proje Amacı:**
 - Üniversite yemekhanesinin günlük menüsünü otomatik olarak takip etmek
 - Kullanıcıya her sabah e-posta ile menü bilgisi göndermek
@@ -36,3 +20,20 @@ git clone https://github.com/Chanbadar/university-menu-automation.git
 - n8n workflow uses web scraping to extract menu data
 - Cron job enables daily automatic execution
 - Email node sends formatted emails to users
+
+### 🛠️ Kurulum
+
+#### 1. Gereksinimler
+- n8n kurulumu
+- E-posta servisi (Gmail, Outlook, vb.)
+- Üniversite menü sayfası URL'si
+
+#### 2. Adımlar
+```bash
+# Repository'yi klonlayın
+git clone https://github.com/Chanbadar/university-menu-automation.git
+
+# n8n'de workflow'u içe aktarın
+# Workflow.json dosyasını n8n arayüzünden import edin
+### 🇹🇷 Türkçe Açıklamalar:
+

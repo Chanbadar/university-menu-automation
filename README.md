@@ -1,4 +1,5 @@
 # university-menu-automation
+### 🇹🇷 Türkçe Açıklamalar:
 **1. Proje Amacı:**
 - Üniversite yemekhanesinin günlük menüsünü otomatik olarak takip etmek
 - Kullanıcıya her sabah e-posta ile menü bilgisi göndermek
@@ -35,5 +36,5 @@ git clone https://github.com/Chanbadar/university-menu-automation.git
 
 # n8n'de workflow'u içe aktarın
 # Workflow.json dosyasını n8n arayüzünden import edin
-### 🇹🇷 Türkçe Açıklamalar:
+
 
